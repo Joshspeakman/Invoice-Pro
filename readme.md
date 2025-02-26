@@ -27,7 +27,7 @@ A modern, professional, client-side invoice generator that works entirely in you
 ### Option 2: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/invoice-pro.git
+git clone https://github.com/Joshspeakman/invoice-pro.git
 cd invoice-pro
 # Simply open invoice.html in your browser
 ```
